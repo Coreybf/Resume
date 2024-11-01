@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f4f4f4;
+    justify-self: center;
+    width: 60%;
+    
+}
+.container{
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 20px;
+}
+.contact-info{
+    text-align: center;
+}
+header{
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+h1{
+    font-size: 3em;
+    margin: 10px;
+}
+h2{
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+.job{
+    margin: 10px;
+}
+.job-title{
+    font-weight: bold;
+}
+.job-date{
+    color: #666;
+    font-style: italic;
+}
+ul{
+    padding-left: 20px;
+}
+.skills-list{
+    list-style-type: none;
+}
